@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubobaohu.github.io/sitemap_index.ubobaohu
